@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.py
+./src/calcprimenumbers.egg-info/PKG-INFO
+./src/calcprimenumbers.egg-info/SOURCES.txt
+./src/calcprimenumbers.egg-info/dependency_links.txt
+./src/calcprimenumbers.egg-info/top_level.txt
+src/calcprimenumbers.egg-info/PKG-INFO
+src/calcprimenumbers.egg-info/SOURCES.txt
+src/calcprimenumbers.egg-info/dependency_links.txt
+src/calcprimenumbers.egg-info/requires.txt
+src/calcprimenumbers.egg-info/top_level.txt
+src/sample/__init__.py
+src/sample/calcprimenumbers.py
